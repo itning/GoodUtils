@@ -49,7 +49,7 @@
 
 10. [incubator-shardingsphere](https://github.com/apache/incubator-shardingsphere)
 
-   	当当网开源的数据库中间件
+   当当网开源的数据库中间件
 
 11. [hexo-helper-live2d](https://github.com/EYHN/hexo-helper-live2d)
 
@@ -409,7 +409,7 @@
 
 100. [ImmersionBar](https://github.com/gyf-dev/ImmersionBar)
 
-     android 4.4以上沉浸式状态栏和沉浸式导航栏管理
+    android 4.4以上沉浸式状态栏和沉浸式导航栏管理
 
 101. [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github)
 
@@ -706,3 +706,19 @@
 174. [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)
 
      一个轻量级实用程序，使Windows任务栏半透明/透明
+
+175. [OfficeToolPlus](https://github.com/YerongAI/OfficeToolPlus)
+
+     帮助下载管理安装激活Office的工具
+
+176. [MacType](https://github.com/snowie2000/MacType)
+
+     在Windows上使用MacType提高字体清晰度，保护眼睛
+
+177. [ntrun](https://ntrun.com/)
+
+     管理Windows中的快速启动，相当于给程序增加运行中的入口
+
+178. [listary](https://www.listary.com/)
+
+     按两次Ctrl即可搜索磁盘中的文件或者访问搜索引擎
