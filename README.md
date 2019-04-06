@@ -1,4 +1,4 @@
-# 收集互联网上好用的工具和网站
+# 收集互联网上好用的工具和网站甚至框架
 
 [![GitHub stars](https://img.shields.io/github/stars/itning/GoodUtils.svg?style=social&label=Stars)](https://github.com/itning/GoodUtils/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/itning/GoodUtils.svg?style=social&label=Fork)](https://github.com/itning/GoodUtils/network/members)
