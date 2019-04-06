@@ -1,5 +1,16 @@
 # 收集互联网上好用的工具和网站
 
+[![GitHub stars](https://img.shields.io/github/stars/itning/GoodUtils.svg?style=social&label=Stars)](https://github.com/itning/GoodUtils/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/itning/GoodUtils.svg?style=social&label=Fork)](https://github.com/itning/GoodUtils/network/members)
+[![GitHub watchers](https://img.shields.io/github/watchers/itning/GoodUtils.svg?style=social&label=Watch)](https://github.com/itning/GoodUtils/watchers)
+[![GitHub followers](https://img.shields.io/github/followers/itning.svg?style=social&label=Follow)](https://github.com/itning?tab=followers)
+
+[![GitHub issues](https://img.shields.io/github/issues/itning/GoodUtils.svg)](https://github.com/itning/GoodUtils/issues)
+[![GitHub license](https://img.shields.io/github/license/itning/GoodUtils.svg)](https://github.com/itning/GoodUtils/blob/master/LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/itning/GoodUtils.svg)](https://github.com/itning/GoodUtils/commits)
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/itning/GoodUtils.svg)](https://github.com/itning/GoodUtils)
+[![HitCount](http://hits.dwyl.io/itning/GoodUtils.svg)](http://hits.dwyl.io/itning/GoodUtils)
+
 1. [Zero server](https://zeroserver.io/)
 
    一个 JS 的后端框架，设计很有意思，每个文件（HTML / JSX / JS）自动成为可访问的路径，不需要其他任何配置
