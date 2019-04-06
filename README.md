@@ -722,3 +722,7 @@
 178. [listary](https://www.listary.com/)
 
      按两次Ctrl即可搜索磁盘中的文件或者访问搜索引擎
+     
+179. [awesome-go-cn](https://github.com/jobbole/awesome-go-cn)
+
+     Go 资源大全中文版
