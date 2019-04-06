@@ -38,7 +38,7 @@
 
 10. [incubator-shardingsphere](https://github.com/apache/incubator-shardingsphere)
 
-   当当网开源的数据库中间件
+   	当当网开源的数据库中间件
 
 11. [hexo-helper-live2d](https://github.com/EYHN/hexo-helper-live2d)
 
@@ -398,7 +398,7 @@
 
 100. [ImmersionBar](https://github.com/gyf-dev/ImmersionBar)
 
-    android 4.4以上沉浸式状态栏和沉浸式导航栏管理
+     android 4.4以上沉浸式状态栏和沉浸式导航栏管理
 
 101. [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github)
 
